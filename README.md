@@ -7,16 +7,16 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [x] Section 01: Course Introduction
 - [x] Section 02: Dive into HTML
 - [ ] Section 03: Formatting with CSS
-    - [ ] Getting started with CSS
-    - [ ] Starting to make our webpage pretty: text
-    - [ ] Colors
-    - [ ] Classes and ID's
-    - [ ] The CSS box model
-    - [ ] Building a simple layout
-    - [ ] Polishing our blog post
-    - [ ] Relative vs. Absolute
-    - [ ] Getting started with the Chrome Developer Tools
-    - [ ] CSS Quiz
+    - [x] Getting started with CSS
+    - [x] Starting to make our web page pretty: text
+    - [x] Colors
+    - [x] Classes and ID's
+    - [x] The CSS box model
+    - [x] Building a simple layout
+    - [x] Polishing our blog post
+    - [x] Relative vs. Absolute
+    - [x] Getting started with the Chrome Developer Tools
+    - [x] CSS Quiz
 - [ ] Section 04: Web design basics
 - [ ] Section 05: The killer website project
 - [ ] Section 06: Responsive web design with media queries

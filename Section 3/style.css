@@ -1,0 +1,125 @@
+/* Color Notes
+
+in css RGB is used in hex format
+#RRGGBB
+
+Min: 0 (hex 0)
+Max: 225 (hex ff)
+*/
+
+/*Transparency with RGBA
+rgba(red,green,blue,transparency)
+*/
+
+/*CSS Box Model
+* Content: text, images. etc
+* Padding: transparent are around the content, inside of the box.
+* Border: goes around the padding and the content
+* Margin: space between boxes
+*/
+
+/* this (*) will effect all elements */
+
+/*margin: top right bottom left*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*This was not explained TODO*/
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    font-family: Helvetica Neue, Arial;
+    font-size: 18px;
+    background-color: #181A1B;
+    color: white;
+}
+
+h1, h2 {
+    color: #72FF7C;
+    margin: 10px 10px 10px 0;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.main-text {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+#author-text {
+    font-size: 22px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+.container {
+    width: 1140px;
+    margin: 20px auto 0 auto;
+}
+
+.blog-post {
+    width: 75%;
+    float: left;
+    padding-right: 30px;
+    position: relative;
+}
+
+.other-post {
+    width: 25%;
+    float: left;
+}
+
+.author-box {
+    padding-top: 20px;
+    border-top: 1px solid #808080;
+}
+
+.other {
+    margin-bottom: 40px;
+}
+
+/*This will only select the image in author-box*/
+.author-box img {
+    height: 100px;
+    width: 100px;
+    /*This will create a round image*/
+    border-radius: 50%;
+    /*This will move the text to the left*/
+    float: left;
+}
+
+.blog-post img {
+    height: 150px;
+    width: auto;
+}
+
+.date {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+
+a {
+    color: #60ABE2;
+}
+
+/*This is not working*/
+.scrollable-element {
+    scrollbar-color: #1c1e1f #2a2c2e;
+}
