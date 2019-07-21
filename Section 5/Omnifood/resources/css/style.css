@@ -20,9 +20,28 @@ html {
     margin: 0 auto 0 auto;
 }
 
+header { /*background-image url(location of image, linear-gradient adds a gradients*/
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/hero.jpg);
+    /*This will make the background(img) fit to header*/
+    background-size: cover;
+    /*This will center the header image*/
+    background-position: center;
+    /*This will make the header 100% of the viewable area*/
+    height: 100vh;
+}
 
+h1 {
+    margin: 0;
+}
 
-
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    /*This translate to half of top and left TODO research transform for css*/
+    transform: translate(-50%, -50%);
+}
 
 
 
