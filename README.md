@@ -11,7 +11,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [ ] Section 05: The killer website project
     - [x] The 7 real-world steps to a fully functional website
     - [x] Starting to put the 7 steps into action
-    - [ ] First development steps
+    - [x] First development steps
     - [ ] Setting up the fluid grid for responsive web design
     - [ ] Building the header - Part 1, 2 & 3
     - [ ] Building the features section - Part 1 & 2
