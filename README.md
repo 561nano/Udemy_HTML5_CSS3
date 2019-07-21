@@ -6,19 +6,22 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 
 - [x] Section 01: Course Introduction
 - [x] Section 02: Dive into HTML
-- [ ] Section 03: Formatting with CSS
-    - [x] Getting started with CSS
-    - [x] Starting to make our web page pretty: text
-    - [x] Colors
-    - [x] Classes and ID's
-    - [x] The CSS box model
-    - [x] Building a simple layout
-    - [x] Polishing our blog post
-    - [x] Relative vs. Absolute
-    - [x] Getting started with the Chrome Developer Tools
-    - [x] CSS Quiz
-- [ ] Section 04: Web design basics
+- [x] Section 03: Formatting with CSS
+- [x] Section 04: Web design basics
 - [ ] Section 05: The killer website project
+    - [x] The 7 real-world steps to a fully functional website
+    - [x] Starting to put the 7 steps into action
+    - [ ] First development steps
+    - [ ] Setting up the fluid grid for responsive web design
+    - [ ] Building the header - Part 1, 2 & 3
+    - [ ] Building the features section - Part 1 & 2
+    - [ ] Building the favorite meals section - Part 1 & 2
+    - [ ] Building the how-it-works section - Part 1 & 2
+    - [ ] Building the cities section - Part 1 & 2
+    - [ ] Building the customer testimonials section - Part 1 & 2
+    - [ ] Building the sign-up section - Part 1 & 2
+    - [ ] Building the contact form form - Part 1 & 2
+    - [ ] Building the footer - Part 1 & 2
 - [ ] Section 06: Responsive web design with media queries
 - [ ] Section 07: Let's add some cool effects
 - [ ] Section 08: Optimizing and launching our website
