@@ -1,3 +1,8 @@
+/*-----------------------------------------*/
+/* Basic Setup*/
+
+/*Orange Color: #e67e22                    */
+/*-----------------------------------------*/
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +18,10 @@ html {
     text-rendering: optimizeLegibility;
 }
 
+/*-----------------------------------------*/
+/* Reusable Components */
+/*-----------------------------------------*/
+
 .row {
     max-width: 1140px;
     /*This is the same as margin: 0     auto    0         auto; */
@@ -20,25 +29,7 @@ html {
     margin: 0 auto 0 auto;
 }
 
-header { /*background-image url(location of image, linear-gradient adds a gradients*/
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/hero.jpg);
-    /*This will make the background(img) fit to header*/
-    background-size: cover;
-    /*This will center the header image*/
-    background-position: center;
-    /*This will make the header 100% of the viewable area*/
-    height: 100vh;
-}
-
-.hero-text-box {
-    position: absolute;
-    width: 1140px;
-    top: 50%;
-    left: 50%;
-    /*This translate to half of top and left TODO research transform for css*/
-    transform: translate(-50%, -50%);
-}
-
+/* ------ Headings ------ */
 h1 {
     margin: 0 0 20px 0;
     color: #ffffff;
@@ -49,6 +40,7 @@ h1 {
     word-spacing: 4px;
 }
 
+/* ------ Buttons ------ */
 .btn:link,
 .btn:visited{
     display: inline-block;
@@ -82,13 +74,70 @@ h1 {
 .btn-full:active {
     /*TODO It would probably be nice to have both buttons switch characteristic if one or the other is hovered*/
     /*background-color: rgba(0,0,0,0);*/
-    border: 1px solid #e67e22;
+    border: 2px solid #ffffff;
     color: #ffffff;
 
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #cf6d17;
+    border: 2px solid #ffffff;
     color: #ffffff;
+}
+
+/*-----------------------------------------*/
+/* Header */
+/*-----------------------------------------*/
+
+header { /*background-image url(location of image, linear-gradient adds a gradients*/
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/hero.jpg);
+    /*This will make the background(img) fit to header*/
+    background-size: cover;
+    /*This will center the header image*/
+    background-position: center;
+    /*This will make the header 100% of the viewable area*/
+    height: 100vh;
+}
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    /*This translate to half of top and left TODO research transform for css*/
+    transform: translate(-50%, -50%);
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 55px;
+
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 4px 0;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom: 2px solid #e67e22;
 }
