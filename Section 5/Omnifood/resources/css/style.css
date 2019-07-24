@@ -88,7 +88,7 @@ h2:after {
     line-height: 145%;
 }
 
-/* ------ Buttons ------ */
+/* ------ Icons ------ */
 
 .icon-big {
     font-size: 350%;
@@ -197,4 +197,30 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
 .main-nav li a:hover,
 .main-nav li a:active{
     border-bottom: 2px solid #e67e22;
+}
+
+/*-----------------------------------------*/
+/* Meals */
+/*-----------------------------------------*/
+
+.meals-showcase {
+    list-style: none;
+    width: 100%;
+
+}
+
+.meals-showcase li {
+    display: block;
+    float: left;
+    width: 25%;
+}
+
+.meal-photo {
+    width: 100%;
+    margin: 0;
+}
+
+.meal-photo img {
+    width: 100%;
+    height: auto;
 }
