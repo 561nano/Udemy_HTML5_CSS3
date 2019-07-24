@@ -16,7 +16,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] Building the header - Part 1, 2 & 3
     - [x] Building the features section - Part 1 & 2
     - [x] Building the favorite meals section - Part 1 & 2
-    - [ ] Building the how-it-works section - Part 1 & 2
+    - [x] Building the how-it-works section - Part 1 & 2
     - [ ] Building the cities section - Part 1 & 2
     - [ ] Building the customer testimonials section - Part 1 & 2
     - [ ] Building the sign-up section - Part 1 & 2

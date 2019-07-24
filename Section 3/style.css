@@ -36,7 +36,7 @@ rgba(red,green,blue,transparency)
 }
 
 body {
-    font-family: Helvetica Neue, Arial;
+    font-family: Neue Helvetica, Arial;
     font-size: 18px;
     background-color: #181A1B;
     color: white;
@@ -120,6 +120,6 @@ a {
 }
 
 /*This is not working*/
-.scrollable-element {
+/* .scrollable-element {
     scrollbar-color: #1c1e1f #2a2c2e;
-}
+} */
