@@ -20,7 +20,10 @@ html {
 }
 
 /* TODO This some how fixes the margins for How it works*/
-.clearfix {zoom: 1}
+.clearfix {
+    zoom: 1
+}
+
 .clearfix:after {
     content: '.';
     clear: both;
@@ -51,7 +54,7 @@ section {
 /* ------ Headings ------ */
 h1,
 h2,
-h3{
+h3 {
     font-weight: 300;
     text-transform: uppercase;
 }
@@ -141,7 +144,7 @@ a:visited {
 
 /* ------ Buttons ------ */
 .btn:link,
-.btn:visited{
+.btn:visited {
     display: inline-block;
     padding: 10px 30px;
     font-weight: 400;
@@ -189,7 +192,7 @@ a:visited {
 /*-----------------------------------------*/
 
 header { /*background-image url(location of image, linear-gradient adds a gradients*/
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
     /*This will make the background(img) fit to header*/
     background-size: cover;
     /*This will center the header image*/
@@ -229,7 +232,7 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
 }
 
 .main-nav li a:link,
-.main-nav li a:visited{
+.main-nav li a:visited {
     padding: 4px 0;
     color: #ffffff;
     text-decoration: none;
@@ -239,7 +242,7 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
 }
 
 .main-nav li a:hover,
-.main-nav li a:active{
+.main-nav li a:active {
     border-bottom: 2px solid #e67e22;
 }
 
@@ -340,7 +343,7 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
 }
 
 .btn-app:link,
-.btn-app:visited{
+.btn-app:visited {
     border: 0;
 }
 
@@ -369,7 +372,7 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
 /*-----------------------------------------*/
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0,0,0,0.8)), url("img/back-customers.jpg") ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img/back-customers.jpg");
     background-size: cover;
     color: #ffffff;
     background-attachment: fixed;
