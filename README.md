@@ -19,7 +19,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] Building the how-it-works section - Part 1 & 2
     - [x] Building the cities section - Part 1 & 2
     - [x] Building the customer testimonials section - Part 1 & 2
-    - [ ] Building the sign-up section - Part 1 & 2
+    - [x] Building the sign-up section - Part 1 & 2
     - [ ] Building the contact form form - Part 1 & 2
     - [ ] Building the footer - Part 1 & 2
 - [ ] Section 06: Responsive web design with media queries
@@ -30,13 +30,10 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 
 
 ## Authors
-
 * **Christian Serrano** - *Notes,Comments & Code* - [GitHub Repository](https://github.com/561nano/Udemy_HTML5_CSS3)
 
 ## Source
 * [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ## Acknowledgments
-
-
 * Jose R. Tavarez for spending the time to talk to me and giving me direction in career and life. Thank you for everything!
