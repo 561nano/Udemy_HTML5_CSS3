@@ -11,7 +11,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [x] Section 05: The killer website project
 - [ ] Section 06: Responsive web design with media queries
     - [x] Making the web page responsive - Part 1 & 2
-    - [ ] A note about web browsers
+    - [x] A note about web browsers
 - [ ] Section 07: Let's add some cool effects
     - [ ] Introduction to jQuery
     - [ ] Building a “sticky” navigation - Part 1 & 2
