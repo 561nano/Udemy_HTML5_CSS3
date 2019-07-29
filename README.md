@@ -8,26 +8,27 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [x] Section 02: Dive into HTML
 - [x] Section 03: Formatting with CSS
 - [x] Section 04: Web design basics
-- [ ] Section 05: The killer website project
-    - [x] The 7 real-world steps to a fully functional website
-    - [x] Starting to put the 7 steps into action
-    - [x] First development steps
-    - [x] Setting up the fluid grid for responsive web design
-    - [x] Building the header - Part 1, 2 & 3
-    - [x] Building the features section - Part 1 & 2
-    - [x] Building the favorite meals section - Part 1 & 2
-    - [x] Building the how-it-works section - Part 1 & 2
-    - [x] Building the cities section - Part 1 & 2
-    - [x] Building the customer testimonials section - Part 1 & 2
-    - [x] Building the sign-up section - Part 1 & 2
-    - [x] Building the contact form form - Part 1 & 2
-    - [x] Building the footer - Part 1 & 2
+- [x] Section 05: The killer website project
 - [ ] Section 06: Responsive web design with media queries
+    - [ ] Making the web page responsive - Part 1 & 2
+    - [ ] A note about web browsers
 - [ ] Section 07: Let's add some cool effects
+    - [ ] Introduction to jQuery
+    - [ ] Building a “sticky” navigation - Part 1 & 2
+    - [ ] Scrolling to elements
+    - [ ] Adding animations on scroll
+    - [ ] Making the navigation responsive
 - [ ] Section 08: Optimizing and launching our website
+    - [ ] Final touch: creating a favicon
+    - [ ] Performance optimization: site speed
+    - [ ] Basic search engine optimization (SEO)
+    - [ ] Let’s launch our web page!
+    - [ ] Google Analytics
 - [ ] Conclusion
 - [ ] BONUS lectures
-
+    - [ ] What’s New in CSS: A Quick Intro to Flexbox, Part 1 & 2
+    - [ ] Using PHP to make our form work
+    - [ ] Super effective ways to improve your website’s conversion
 
 ## Authors
 * **Christian Serrano** - *Notes,Comments & Code* - [GitHub Repository](https://github.com/561nano/Udemy_HTML5_CSS3)

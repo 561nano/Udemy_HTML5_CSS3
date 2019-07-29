@@ -541,7 +541,7 @@ footer {
 }
 
 .footer-nav li a:hover,
-.footer-nav li a:active{
+.footer-nav li a:active {
     color: #dddddd;
 }
 
@@ -557,11 +557,11 @@ footer {
     transition: color 0.2s;
 }
 
-.ion-social-facebook:hover{
+.ion-social-facebook:hover {
     color: #3b5998;
 }
 
-.ion-social-twitter:hover{
+.ion-social-twitter:hover {
     color: #00aced;
 }
 
