@@ -267,7 +267,20 @@ header { /*background-image url(location of image, linear-gradient adds a gradie
     border-bottom: 2px solid #e67e22;
 }
 
-/* Sticky Navi*/
+/* Mobile Navi */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #ffffff;
+}
+
+/* Sticky Navi */
 .sticky {
     position: fixed;
     top: 0;
