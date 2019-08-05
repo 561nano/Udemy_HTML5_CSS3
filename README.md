@@ -14,8 +14,8 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] A note about web browsers
 - [ ] Section 07: Let's add some cool effects
     - [x] Introduction to jQuery
-    - [ ] Building a “sticky” navigation - Part 1 & 2
-    - [ ] Scrolling to elements
+    - [x] Building a “sticky” navigation - Part 1 & 2
+    - [x] Scrolling to elements
     - [ ] Adding animations on scroll
     - [ ] Making the navigation responsive
 - [ ] Section 08: Optimizing and launching our website
