@@ -17,9 +17,9 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] Building a “sticky” navigation - Part 1 & 2
     - [x] Scrolling to elements
     - [x] Adding animations on scroll
-    - [ ] Making the navigation responsive
+    - [x] Making the navigation responsive
 - [ ] Section 08: Optimizing and launching our website
-    - [ ] Final touch: creating a favicon
+    - [x] Final touch: creating a favicon
     - [ ] Performance optimization: site speed
     - [ ] Basic search engine optimization (SEO)
     - [ ] Let’s launch our web page!
