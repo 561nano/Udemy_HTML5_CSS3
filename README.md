@@ -21,7 +21,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [ ] Section 08: Optimizing and launching our website
     - [x] Final touch: creating a favicon
     - [x] Performance optimization: site speed
-    - [ ] Basic search engine optimization (SEO)
+    - [x] Basic search engine optimization (SEO)
     - [ ] Let’s launch our web page!
     - [ ] Google Analytics
 - [ ] Conclusion
