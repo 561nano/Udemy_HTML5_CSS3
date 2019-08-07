@@ -22,9 +22,9 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] Final touch: creating a favicon
     - [x] Performance optimization: site speed
     - [x] Basic search engine optimization (SEO)
-    - [ ] Let’s launch our web page!
-    - [ ] Google Analytics
-- [ ] Conclusion
+    - [x] Let’s launch our web page!
+    - [x] Google Analytics
+- [x] Conclusion
 - [ ] BONUS lectures
     - [ ] What’s New in CSS: A Quick Intro to Flexbox, Part 1 & 2
     - [ ] Using PHP to make our form work
