@@ -26,7 +26,7 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
     - [x] Google Analytics
 - [x] Conclusion
 - [ ] BONUS lectures
-    - [ ] What’s New in CSS: A Quick Intro to Flexbox, Part 1 & 2
+    - [x] What’s New in CSS: A Quick Intro to Flexbox, Part 1 & 2
     - [ ] Using PHP to make our form work
     - [ ] Super effective ways to improve your website’s conversion
 

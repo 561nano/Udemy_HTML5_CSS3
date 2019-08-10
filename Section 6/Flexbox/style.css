@@ -49,6 +49,8 @@ body {
     flex: 1;
     background: white;
     padding: 35px 30px;
+    display: flex;
+    flex-direction: column;
 }
 
 .pizza__price {
@@ -93,4 +95,23 @@ body {
 
 .pizza__description {
     font-size: 14px;
+}
+
+.pizza__details {
+    display: flex;
+    margin-top: auto;
+}
+
+.pizza__detail {
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.emoji {
+    font-size: 20px;
+    margin-right: 3px;
 }
