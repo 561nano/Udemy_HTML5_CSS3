@@ -9,16 +9,16 @@ This repository follow [Build Responsive Real World Websites with HTML5 and CSS3
 - [x] Section 03: Formatting with CSS
 - [x] Section 04: Web design basics
 - [x] Section 05: The killer website project
-- [ ] Section 06: Responsive web design with media queries
+- [x] Section 06: Responsive web design with media queries
     - [x] Making the web page responsive - Part 1 & 2
     - [x] A note about web browsers
-- [ ] Section 07: Let's add some cool effects
+- [x] Section 07: Let's add some cool effects
     - [x] Introduction to jQuery
     - [x] Building a “sticky” navigation - Part 1 & 2
     - [x] Scrolling to elements
     - [x] Adding animations on scroll
     - [x] Making the navigation responsive
-- [ ] Section 08: Optimizing and launching our website
+- [x] Section 08: Optimizing and launching our website
     - [x] Final touch: creating a favicon
     - [x] Performance optimization: site speed
     - [x] Basic search engine optimization (SEO)
