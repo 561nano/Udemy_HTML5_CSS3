@@ -66,6 +66,7 @@ body {
 .pizza__title {
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .pizza__heading {
@@ -88,4 +89,8 @@ body {
 
 .pizza__tag--2 {
     background-color: #4ca2cd;
+}
+
+.pizza__description {
+    font-size: 14px;
 }
